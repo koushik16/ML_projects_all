@@ -1,1 +1,1 @@
-# This Repo Contains different Projects and topics (from scratch) answerd in Machine Learning
+# This Repo Contains different Projects and topics (from scratch) in Machine Learning
